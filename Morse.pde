@@ -74,7 +74,7 @@ void setup() {
   ////Palindromes
   println("Accessed palindromes module.");
   //Generate list of morse palindromes
-  filepath = "E:\\Programming\\words.txt";
+  filepath = "E:\\Programming\\English_words.txt";
   consider_letter_spaces = false;
   if (consider_letter_spaces) {
     println("Note: Currently considering morse WITH spaces between letter codes.\n");
