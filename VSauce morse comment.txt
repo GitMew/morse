@@ -1,0 +1,80 @@
+﻿https://www.youtube.com/watch?v=HY_OIwideLg
+
+So, for anyone interested: I wrote a quick script to analyse an online database of words in the English language - by user "dwyl" on Github - and here're some things I found (note that it is impossible for a database to contain ALL words used in ALL variants of English, so don't take these as definite statements on the entire English language):
+
+1.a. There is not a single morse palindrome if you leave in the space between letter codes; 
+Edit: 1.a. There are 201 morse palindromes if you leave in the space between letter codes; 
+Edit: 1.b. The 20 longest of these are ("length" meaning amount of dots & dashes):
+
+> N°1: pip-pip, which in morse is •––• •• •––• –••••– •––• •• •––• with a length of 26.
+> N°2: footstool, which in morse is ••–• ––– ––– – ••• – ––– ––– •–•• with a length of 25.
+> N°3: quandy, which in morse is ––•– ••– •– –• –•• –•–– with a length of 18.
+> N°4: wairing, which in morse is •–– •– •• •–• •• –• ––• with a length of 17.
+> N°5: saimins, which in morse is ••• •– •• –– •• –• ••• with a length of 16.
+> N°6: Ferrel, which in morse is ••–• • •–• •–• • •–•• with a length of 16.
+> N°7: waiting, which in morse is •–– •– •• – •• –• ––• with a length of 15.
+> N°8: surds, which in morse is ••• ••– •–• –•• ••• with a length of 15.
+> N°9: -o-, which in morse is –••••– ––– –••••– with a length of 15.
+> N°10: unhad, which in morse is ••– –• •••• •– –•• with a length of 14.
+> N°11: swigs, which in morse is ••• •–– •• ––• ••• with a length of 14.
+> N°12: SSTTSS, which in morse is ••• ••• – – ••• ••• with a length of 14.
+> N°13: poop, which in morse is •––• ––– ––– •––• with a length of 14.
+> N°14: loof, which in morse is •–•• ––– ––– ••–• with a length of 14.
+> N°15: fool, which in morse is ••–• ––– ––– •–•• with a length of 14.
+> N°16: -i-, which in morse is –••••– •• –••••– with a length of 14.
+> N°17: unsad, which in morse is ••– –• ••• •– –•• with a length of 13.
+> N°18: Sotos, which in morse is ••• ––– – ––– ••• with a length of 13.
+> N°19: siris, which in morse is ••• •• •–• •• ••• with a length of 13.
+> N°20: xxx, which in morse is –••– –••– –••– with a length of 12.
+
+2.a. There are 2.001 morse palindromes if you leave out the spaces (like Michael did);
+2.b. The 20 longest of these are ("length" meaning amount of dots & dashes):
+
+> N°1: full-to-full, which in morse is • • – • • • – • – • • • – • • – • • • • – – – – – – • • • • – • • – • • • – • – • • • – • • with a length of 46.
+> N°2: single-stitch, which in morse is • • • • • – • – – • • – • • • – • • • • – • • • – • • – – • – • • • • • with a length of 36.
+> N°3: Raphaelesque, which in morse is • – • • – • – – • • • • • • – • • – • • • • • • – – • – • • – • with a length of 32.
+> N°4: ultranatural, which in morse is • • – • – • • – • – • • – – • • – – • • – • – • • – • – • • with a length of 30.
+> N°5: incalescence, which in morse is • • – • – • – • • – • – • • • • • • – • – • • – • – • – • • with a length of 30.
+> N°6: anting-anting, which in morse is • – – • – • • – • – – • – • • • • – • – – • – • • – • – – • with a length of 30.
+> N°7: air-to-air, which in morse is • – • • • – • – • • • • – – – – – – • • • • – • – • • • – • with a length of 30.
+> N°8: Snellville, which in morse is • • • – • • • – • • • – • • • • • – • • • – • • • – • • • with a length of 29.
+> N°9: shrimpiness, which in morse is • • • • • • • • – • • • – – • – – • • • – • • • • • • • • with a length of 29.
+> N°10: inconcocted, which in morse is • • – • – • – • – – – – • – • – • – – – – • – • – • – • • with a length of 29.
+> N°11: shelterless, which in morse is • • • • • • • • • – • • – • • – • • – • • • • • • • • • with a length of 28.
+> N°12: intransigence, which in morse is • • – • – • – • • – – • • • • • • – – • • – • – • – • • with a length of 28.
+> N°13: hairballs, which in morse is • • • • • – • • • – • – • • • • – • – • • • – • • • • • with a length of 28.
+> N°14: Furnivall, which in morse is • • – • • • – • – • – • • • • • • – • – • – • • • – • • with a length of 28.
+> N°15: fibrefill, which in morse is • • – • • • – • • • • – • • • • – • • • • – • • • – • • with a length of 28.
+> N°16: protectorate, which in morse is • – – • • – • – – – – • – • – • – – – – • – • • – – • with a length of 27.
+> N°17: K.K.K., which in morse is – • – • – • – • – – • – • – • – • – – • – • – • – • – with a length of 27.
+> N°18: interdiscal, which in morse is • • – • – • • – • – • • • • • • • – • – • • – • – • • with a length of 27.
+> N°19: pip-pip, which in morse is • – – • • • • – – • – • • • • – • – – • • • • – – • with a length of 26.
+> N°20: makeshifty, which in morse is – – • – – • – • • • • • • • • • • • • – • – – • – – with a length of 26.
+
+3.a. There are 120 palindromic words that are also morse palindromes. However, only about 19 aren't acronyms nor obscure onomatopoeiae:
+> eke: increase
+> eme: uncle, or a Scottish friend
+> keek: peek, or a social networking service from back in 2011
+> kook: bigot
+> mom: mother
+> ottetto: octet, but straight from the Italian word for octet
+> Otto: Bismarck
+> peep: peek
+> pip-pip: British way of saying goodbye (also the longest morse palindrome with spaces, and the 19th longest without!)
+> poop: feces (also the 13th longest morse palindrome with spaces!)
+> pop: music style
+> retter: Medieval dude soaking woody things in water to remove fibers
+> rotor: turny thing
+> sememes: plural of sememe, i.e. the smallest part of a language, though which has meaning
+> sexes: plural of sex, i.e. gender
+> siris: Mesopotamian goddess of beer (also the 19th longest morse palindrome with spaces!)
+> sis: sister
+> terret: part of metal braces for spanning horses together
+> tit: teet
+> teet: tit
+3.b. Every single one of those 120 palindromic words that are also morse palindromes, are morse-palindromic both without AND with spaces between letter codes.
+3.c. Every single one of those 120 palindromic words that are also morse palindromes, are made up only of letters which on their own are symmetrical in morse.
+
+So yeah, those are my two cents; pip-pip is the true winner, methinks. 
+
+Oh, also, the start of the video spells –•• •• •– •–• •–• •••• • •–. Thanks for reading!﻿
